@@ -28,3 +28,11 @@ This project automates the internal request and approval process for **Export an
 
 ---
 *Developed to enhance financial internal controls and operational efficiency.*
+
+## 👥 Project Contributors
+
+* **Solution Architect**: <span style="color:blue">Sakunich INTOM</span>  
+  *Designed the end-to-end workflow logic and control structure.*
+
+* **Developed by**: <span style="color:blue">Sakunich INTOM</span>  
+  *Implemented Power Automate flows and SharePoint integrations.*
